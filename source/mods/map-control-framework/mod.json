@@ -1,0 +1,18 @@
+{
+  "id": "map-control-framework",
+  "kind": "native",
+  "version": "0.1.0",
+  "feature_dependencies": [],
+  "gameplay": true,
+  "provides": {
+    "map-control-framework.map-controls": {
+      "abi": 1,
+      "size": 32,
+      "limits": {
+        "max_providers": 8,
+        "max_units": 64,
+        "max_actions": 6
+      }
+    }
+  }
+}

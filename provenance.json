@@ -1,0 +1,65 @@
+{
+  "schema": "mod-source-hashes/v1",
+  "source_files": {
+    "mods/map-control-framework/ground_pick.h": {
+      "export_sha256": "1d7a3c5775d2586f1addae391611850d34e29eb0deed28e6bdb56bc466a3aea3"
+    },
+    "mods/map-control-framework/mod.c": {
+      "export_sha256": "98ad7f9eb3201f6d489731047f637d7aeff98590fe2e5cb1e61989d71b361796"
+    },
+    "mods/map-control-framework/mod.json": {
+      "export_sha256": "b0a63309248c9b9c4a74b2d9b5fbc206fb4bd080c11b809095a064070de55d29"
+    },
+    "mods/map-control-framework/reflection.h": {
+      "export_sha256": "33883ea1fe707067977271e57d0b40e8e836e59e37923484473f5d1e4a258247"
+    },
+    "mods/map-control-framework/registry.h": {
+      "export_sha256": "1c0a61edc2a4a15494cc7322718a69db00a99d01096118a0101ee421d8baa531"
+    },
+    "mods/map-control-framework/screen_gates.h": {
+      "export_sha256": "0ca30eef691258d6316b40eb7e6804cfb13926d828d574491c2860172d214d45"
+    },
+    "mods/map-control-framework/sdk/client.h": {
+      "export_sha256": "f9bc67bba8f0841017275381daff64255aff574c1972dc6432ad5291c0cf50b4"
+    },
+    "mods/map-control-framework/sdk/map_controls.h": {
+      "export_sha256": "1014447d4b8784c7d7f356f750a998935fbb0a9a1a259b57cf714494631c571f"
+    },
+    "mods/map-control-framework/tests/bindings.py": {
+      "export_sha256": "65f0e2839e6cc49092c58020a4aac6eca7dc89e5f769ec6b2c589441c0373ee9"
+    },
+    "mods/map-control-framework/tests/ground_pick.c": {
+      "export_sha256": "2bdc2aba5a61756823f57f65cf47323e238080dbe01eb27b1935dd37ff15253d"
+    },
+    "mods/map-control-framework/tests/registry.c": {
+      "export_sha256": "6f31895efc613b18eceecb52e44e66dd6abfc55fe48b8389561b22b53b940680"
+    },
+    "runtime/native/gameplay.h": {
+      "export_sha256": "7676362469a7972f54f9c7304d41d32396b4f81cc9a9f9935983c54b90cb061d"
+    },
+    "runtime/native/hook_context.h": {
+      "export_sha256": "28f6c6502f3b4d6e8ae02c06e60b6d3b7f1b8674d0a5f20ac42664ea3133d016"
+    },
+    "runtime/native/hook_engine.h": {
+      "export_sha256": "2cea82d754c1792bc3eddfba10261c7de7eb0a33316cc5d1aa28a99ee78882df"
+    },
+    "runtime/native/services.h": {
+      "export_sha256": "1178e09c77f30f53bbccbfbacf8771e5faad1cf79753703d90dfd0a1e0fbadeb"
+    },
+    "runtime/sdk/context.h": {
+      "export_sha256": "6c84145cc761550c4943aa10c52242a538e92243f79a1b20c65b6a4ef9e82605"
+    },
+    "runtime/sdk/hooks.h": {
+      "export_sha256": "7c006f1254dd6a130f56dac499ba8196fb84ee4883443ee4f12d601534df56ec"
+    },
+    "runtime/sdk/services.h": {
+      "export_sha256": "72de584c98cf0ca6367f5decd4416c78fa4eeea44b4b48401d0737a44b2c7a2b"
+    },
+    "runtime/sdk/services_client.h": {
+      "export_sha256": "17f670371f5798457301b14c046daa99632c9685cc2c5f78921c3fe53d095479"
+    },
+    "runtime/sdk/vehicle_input.h": {
+      "export_sha256": "6af332b456ff9fb74e96a6e963a8cf9627bd51a8edca55f07b6e5a829b9da790"
+    }
+  }
+}
