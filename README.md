@@ -1,5 +1,7 @@
 # Map Control Framework
 
+<img src="media/icon.png" alt="Map Control Framework icon" width="128" height="128">
+
 Shared native map top controls for robots and vehicle GPS.
 
 ## Install
